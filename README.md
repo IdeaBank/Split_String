@@ -13,7 +13,8 @@ to your source file
 
 ## Second
 
-call function : split
+call function : split.
+
 The arguments should be (string, letter)
 
 ex) split("Hello World!", ' ');
