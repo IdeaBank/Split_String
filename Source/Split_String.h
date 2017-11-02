@@ -2,7 +2,7 @@
 #include <vector>
 #include <string>
 
-std::vector<std::string> split(const std::string&& input, const char&& letter)
+std::vector<std::string> split(const std::string& input, const char&& letter)
 {
 	int i = 0;
 	int length = input.length();
