@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+.vs/Split_String/v15/.suo
+*.db
+*.opendb
+*.ipch
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.idb
